@@ -3,3 +3,5 @@ this is my first line
 I know how to use git
 
 second change
+
+lets do another text line
